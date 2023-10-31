@@ -38,5 +38,29 @@ opção A *(1440 x 1024 pixels)*
 
 01.- iniciando o projeto 
 
+*31/10/2023*
+
+**LIÇÃO**
+
+04.- Estrutura básica do HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+05.- Estilizando sua página 
+
+Muito bem! Para criar um vínculo entre os arquivos, usamos a tag <link>, seu código final deverá ficar desta maneira: <link rel=”stylesheet” href=”style.css”>.
+
+
+
+
+
+
+
 
 
